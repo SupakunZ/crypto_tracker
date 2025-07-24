@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/edfc1293-8363-4ad1-b9c1-4b8ec2531a2f
       <li>CoinGecko API for fetching cryptocurrency data, including prices and other relevant information.</li>
   </ul>
 
-## ⭐ Technologyies Used
+## ⭐ Tech Stack
   
   <ul>
       <li>NextJS</li>
